@@ -19,7 +19,7 @@ class UserFactory extends Factory
     {
         return [
             'username' => "admin",
-            'fullname' => "mdcsis",
+            'fullname' => "hoteladmin",
             'email' => "md2023@gmail.com",
             'mobile_number' => "09123456789",
             'role' => "Admin",
